@@ -36,9 +36,6 @@ public class Override {
 		double getArea() {
 			return pi*radius*radius;
 		}
-		double getVolume() {
-			return pi*radius*radius*height;
-		}
 	}
 /*	String toString() {
 		} */
